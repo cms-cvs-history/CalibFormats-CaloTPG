@@ -1,0 +1,8 @@
+<environment>
+  <use name=CalibFormats/CaloTPG>
+
+  <bin file=HcalTPGSimpleTranscoder_t.cc>
+
+  </bin>
+</environment>
+
